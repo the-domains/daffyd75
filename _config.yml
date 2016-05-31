@@ -1,28 +1,18 @@
-name: Daffyd75
-favicon: null
-layout_spectrum: 0.9121850111987442
-typography_spectrum: 0.1823249540757388
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.6417280160821974
-  lightness: 0.26677346765063703
-  saturation: 0.8563389133196324
-  rhythmicContrast: 0.9478023527190089
+    - '#606467'
+    - '#FDFDFD'
+    - '#A0A788'
+    - '#A11806'
+    - '#55C400'
+  brandStrength: 0.641728
+  lightness: 0.84375
+  rhythmicContrast: 0.947802
+  saturation: 0.856338
+cta: {}
+layout_spectrum: 0.9121850111987442
+name: Daffyd75
+opengraph: {}
 purpose: []
+typography_spectrum: 0.1823249540757388
